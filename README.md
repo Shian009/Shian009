@@ -28,7 +28,7 @@ Hi, I'm [Shivank Maheshwari!](https://shian009.github.io), a passionate Full Sta
 - 🌱 I’m currently exploring new tech fields
 - 💬 Ask me about anything related to java, JS, React, Firebase(After googling it 😜😌)
 - ⚡️ Fun-Fact: Spider🕷️ is the only web🕸️ developer who enjoys finding bugs 🐛
-- 📫 How to reach me: shivankmaheshwariofficial@gmail.com
+- 📫 How to reach me: shivankmaheshwari14@gmail.com
 
 ### 🛠️ Languages and Tools:
 
