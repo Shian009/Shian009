@@ -34,7 +34,7 @@ Hi, I'm [Shivank Maheshwari!](https://shian009.github.io), a passionate Full Sta
 ### 🛠️ Languages and Tools:
 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![c%2B%2B](https://img.shields.io/badge/C++-Solutions-black.svg?style=flat-square&logo=c%2B%2B)
+![c%2B%2B](https://img.shields.io/badge/C++-black.svg?style=flat-square&logo=c%2B%2B)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
