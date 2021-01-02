@@ -1,4 +1,4 @@
-### <h2>Hi there <img height="50" alt="GIF" src="https://github.com/shian009/shian009/blob/master/assets/hi.gif" /></h2>
+### <h2>Hi there <img height="50" alt="GIF" src="https://github.com/shian009/shian009/blob/main/assets/hi.gif" /></h2>
 
 <br/>
 
@@ -14,13 +14,14 @@
 <a href="https://leetcode.com/shivankmaheshwari14/">
   <img align="left" alt="Shivank | Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
-![](https://visitor-badge.glitch.me/badge?page_id=Shian009.Shian009)
+
+![](https://visitor-badge.glitch.me/badge?page_id=shian009.shian009&style=flat-square&color=0088cc)
 
 <br/>
 
 Hi, I'm [Shivank Maheshwari!](https://shian009.github.io), a passionate Full Stack Web Developer 🚀 from India.
 
- <img align="right" width="300"  alt="GIF" src="https://github.com/shian009/shian009/blob/master/assets/codey.gif" />
+ <img align="right" width="300"  alt="GIF" src="https://github.com/shian009/shian009/blob/main/assets/codey.gif" />
   
 ### ✨ Quick Facts
 
